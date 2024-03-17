@@ -1,0 +1,40 @@
+.colores{
+    display: flex;
+}
+#boxBlue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 20px;
+}
+#boxRed{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 20px;
+}
+#boxGreen{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin: 20px;
+}
+#boxYellow {
+    height: 200px;
+    width: 200px;
+    background-color: Yellow;
+    margin: 20px;
+}
+
+#key {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 1px solid black;
+}
+.ncaja1 {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border: 1px solid black
+}
